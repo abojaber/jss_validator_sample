@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Javascript async="false" continueOnError="false" enabled="true" timeLimit="200" name="JS-Validate">
+    <DisplayName>JS-Validate</DisplayName>
+    <Properties/>
+    <IncludeURL>jsc://JS-Helper.js</IncludeURL>
+    <ResourceURL>jsc://JS-Validate.js</ResourceURL>
+</Javascript>
