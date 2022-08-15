@@ -1,4 +1,4 @@
-fields = context.getVariable("SF-PayloadValidator.fields");
+fields = context.getVariable("fields");
 payload = JSON.parse(context.getVariable("message.content"));
 result = validate(payload, fields);
 length = result.length;
